@@ -1,4 +1,4 @@
-# Mit diesem Skript begrüße ich die Welt
+# Mit diesem Skript begrüße ich die Welt und die Welt grüßt zurück.
 echo "hallo Welt"
 
 # for-Schleife
