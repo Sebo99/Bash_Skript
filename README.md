@@ -1,2 +1,4 @@
 # Mein erstes Git Repositorium
-2022-09-12
+
+- Autor: Sebastian Öder
+- 2022-09-12
